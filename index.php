@@ -13,7 +13,7 @@ function sayHello($name) {
 
 <html>
 	<head>
-		<title>Visual Studio Code Remote :: PHP</title>
+		<title>PhongNC</title>
 	</head>
 	<body>
 		<?php 
